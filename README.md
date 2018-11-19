@@ -7,3 +7,5 @@ The `app.rb` file has the logic for the event logger. There, via a POST request,
 This logic is replicated on the FPF assignment Ubuntu server. I downloaded Ruby, RVM, and Git there and created another user (called "cj"). For both root and cj, the project should be located in the root directory.
 
 You should be able to successfully create a log file once deployed.
+
+Making a minor edit!
